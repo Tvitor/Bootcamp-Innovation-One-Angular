@@ -6,6 +6,7 @@ description: Anotações feitas durante as Aulas do Bootcamp - 13 horas
 
 ### Bindings
 
+<<<<<<< HEAD
 {% hint style="info" %}
 Bindings em angular são as formas de como a **View** interage com **Model/\(Compoment\)**.
 {% endhint %}
@@ -112,6 +113,12 @@ Inicializar um componente com OnInit é fazer uma ação na inicialização, mas
 Sistema de Gerenciamento de Cursos - Criar - Editar - Consultar - Deletar
 
 {% code title="Terminal" %}
+=======
+Esse projeto tem como finalidade consultar, editar, alterar e deletar os cursos além de criar validações de formulário do curso
+~~~
+teste codigo
+~~~
+>>>>>>> 48d4137087a5fc1baf2de1dd155439cda1f3b65c
 ```
 ng new course-manager
 ```
