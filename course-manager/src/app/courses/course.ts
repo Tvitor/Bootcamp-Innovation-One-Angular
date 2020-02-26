@@ -3,8 +3,9 @@ export class Course {
     name: String;
     imageUrl: String;
     price: Number;
-    cod: String;
+    code: String;
     duration: Number;
     rating: number;
-    releaseDate: String
+    releaseDate: String;
+    description: String
 }
