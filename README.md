@@ -6,7 +6,6 @@ description: Anotações feitas durante as Aulas do Bootcamp - 13 horas
 
 ### Bindings
 
-<<<<<<< HEAD
 {% hint style="info" %}
 Bindings em angular são as formas de como a **View** interage com **Model/\(Compoment\)**.
 {% endhint %}
